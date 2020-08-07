@@ -1,0 +1,70 @@
+$main_color: #dbdfe6;
+
+$title_heading_color: #fff;
+
+$bg_white_color: #ffffff;
+
+$section_background_color: #f9f9f9;
+
+$background_color: #a100ff;
+
+$white:#ffffff;
+
+$primary_color: #232323;
+
+$secondary_color: #a100ff;
+
+$btn_bg_color: #0652cf;
+
+$color_one: #b130fd;
+
+$color_two: #030302;
+
+$color_three: #f4f4f4;
+
+$color_four: #f6f6f6;
+
+$border_color: #e5e5e5;
+
+.main_color {
+  color: $main_color;
+}    
+.title_heading_color {
+  color: $title_heading_color;
+}    
+.bg_white_color {
+  background-color: $bg_white_color;
+}   
+.section_background_color {
+  background-color: $section_background_color;
+}   
+.background_color {
+  background-color: $background_color;
+}
+.white {
+  color: $white;
+}
+.primary_color {
+  color: $primary_color;
+}
+.secondary_color {
+  color: $secondary_color;
+}
+.btn_bg_color {
+  background-color: $btn_bg_color;
+}
+.color_one {
+  color: $color_one;
+}
+.color_two {
+  color: $color_two;
+}
+.color_three {
+  color: $color_three;
+}
+.color_four {
+  color: $color_four;
+}
+.border_color {
+  color: $border_color;
+}
